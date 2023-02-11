@@ -1,0 +1,1 @@
+{"id":"16284364-6869-4c29-a16f-e0e77ba19a4d","space":52074,"runtime":"python3.9","name":"slots-poc","path":"tg7br2","project":"d068v4xb","account":"144798365827","region":"ap-south-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"off","cron":""}
